@@ -13,7 +13,6 @@
 ## 🧑‍💻 Sobre mí
 
 - 🏫 Trabajo en el **Centro de Cómputo** del Instituto Tecnológico de San Luis Potosí (TecNM).
-- 🛠️ Desarrollo y mantengo sistemas institucionales y administro infraestructura de TI.
 - 👨‍🏫 Enseño desarrollo web: HTML, CSS y JavaScript.
 - 🌱 Actualmente construyendo nuevos proyectos y fortaleciendo mi portafolio.
 
