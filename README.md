@@ -13,6 +13,7 @@
 ## 🧑‍💻 Sobre mí
 
 - 🏫 Trabajo en el **Centro de Cómputo** del Instituto Tecnológico de San Luis Potosí (TecNM).
+- 🛠️ Desarrollo y mantengo sistemas institucionales y administro infraestructura de TI.
 - 👨‍🏫 Enseño desarrollo web: HTML, CSS y JavaScript.
 - 🌱 Actualmente construyendo nuevos proyectos y fortaleciendo mi portafolio.
 
@@ -20,7 +21,6 @@
 <summary><b>🇬🇧 About me (English)</b></summary>
 
 - 🏫 I work at the **Computer Center (Centro de Cómputo)** of Instituto Tecnológico de San Luis Potosí (TecNM).
-- 🛠️ I develop and maintain institutional software systems and manage IT infrastructure.
 - 👨‍🏫 I teach web development: HTML, CSS and JavaScript.
 - 🌱 Currently building new projects and growing my portfolio.
 
@@ -47,12 +47,25 @@
 
 ---
 
+## 🎯 Ahora mismo · Right now
+
+- 🔨 **Construyendo · Building:** una app de navegación para el campus y una demo de gamificación con avatares 3D.
+- 📚 **Aprendiendo · Learning:** _(escribe aquí lo que estés aprendiendo · what you're learning)_
+- 👨‍🏫 **Enseñando · Teaching:** fundamentos de desarrollo web (HTML, CSS, JavaScript).
+
+## 💬 Pregúntame sobre · Ask me about
+
+`Desarrollo web` · `Laravel` · `Bases de datos MySQL` · `Administración de sistemas` · `Enseñanza de programación`
+
+<!-- Reactiva las estadísticas cuando tengas más actividad / Re-enable stats once you have more activity:
+
 ## 📊 GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hector-DSG&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hector-DSG&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+-->
 
 ---
 
