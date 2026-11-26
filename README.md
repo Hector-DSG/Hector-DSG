@@ -71,7 +71,7 @@
 
 `Desarrollo web` · `Laravel` · `Bases de datos MySQL` · `Administración de sistemas` · `Enseñanza de programación`
 
-<!-- Reactiva las estadísticas cuando tengas más actividad / Re-enable stats once you have more activity:
+<!--
 
 ## 📊 GitHub
 
@@ -82,13 +82,3 @@
 -->
 
 <img src="assets/divider.svg" width="100%" alt="" />
-
-## 📫 Contacto · Contact
-
-<p align="center">
-  <a href="https://github.com/Hector-DSG"><img src="https://img.shields.io/badge/GitHub-Hector--DSG-2E3A7A?style=flat-square&logo=github" /></a>
-  <!-- Agrega tus enlaces / Add your links:
-  <a href="https://www.linkedin.com/in/TU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tucorreo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  -->
-</p>
