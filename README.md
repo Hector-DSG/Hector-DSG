@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1500&color=F4E6B8&background=0B1026FF&center=true&vCenter=true&width=800&height=60&lines=Desarrollador+de+software+%7C+Software+Developer;Administrador+de+sistemas+%7C+Systems+Admin;Docente+de+desarrollo+web+%7C+Web+Teacher)](https://git.io/typing-svg)
 
-📍 San Luis Potosí, México
-
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -13,15 +11,14 @@
 ## 🧑‍💻 Sobre mí
 
 - 🏫 Trabajo en el **Centro de Cómputo** del Instituto Tecnológico de San Luis Potosí (TecNM).
-- 🛠️ Desarrollo y mantengo sistemas institucionales y administro infraestructura de TI.
-- 👨‍🏫 Enseño desarrollo web: HTML, CSS y JavaScript.
+- 👨‍🏫 Enseño desarrollo web.
 - 🌱 Actualmente construyendo nuevos proyectos y fortaleciendo mi portafolio.
 
 <details>
 <summary><b>🇬🇧 About me (English)</b></summary>
 
 - 🏫 I work at the **Computer Center (Centro de Cómputo)** of Instituto Tecnológico de San Luis Potosí (TecNM).
-- 👨‍🏫 I teach web development: HTML, CSS and JavaScript.
+- 👨‍🏫 I teach web development.
 - 🌱 Currently building new projects and growing my portfolio.
 
 </details>
@@ -47,18 +44,18 @@
 
 ## 🚀 Proyectos publicados · Published projects
 
-| Proyecto · Project | Descripción · Description | Stack | Enlaces · Links |
-|---|---|---|---|
+| Proyecto · Project       | Descripción · Description                                                                                                                                                                        | Stack                   | Enlaces · Links                                                                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | 🧠 **Memorama BioShock** | Juego de memoria en pixel art con cronómetro, récord guardado en el navegador y fondo animado. <br> _Pixel art memory game with a timer, a browser-saved high score and an animated background._ | HTML · CSS · JavaScript | [🎮 Jugar · Play](https://hector-dsg.github.io/memorama-bioshock/) · [💻 Código · Code](https://github.com/Hector-DSG/memorama-bioshock) |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚧 Proyectos en desarrollo · Work in progress
 
-| Proyecto · Project | Descripción · Description | Stack |
-|---|---|---|
-| 🗺️ **Campus Navigation App** | App móvil con mapa georreferenciado para moverse por el campus. <br> _Mobile app with a georeferenced map to navigate the campus._ | React Native · Expo |
-| 🎮 **Gamification Demo** | Avatares 3D y gamificación para un sistema de gestión escolar. <br> _3D avatars and gamification for a school management system._ | Laravel · Filament · Three.js |
+| Proyecto · Project           | Descripción · Description                                                                                                          | Stack                         |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| 🗺️ **Campus Navigation App** | App móvil con mapa georreferenciado para moverse por el campus. <br> _Mobile app with a georeferenced map to navigate the campus._ | React Native · Expo           |
+| 🎮 **Gamification Demo**     | Avatares 3D y gamificación para un sistema de gestión escolar. <br> _3D avatars and gamification for a school management system._  | Laravel · Filament · Three.js |
 
 > Pronto agregaré enlaces a los repositorios. · _Repository links coming soon._
 
