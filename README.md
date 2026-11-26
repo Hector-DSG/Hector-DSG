@@ -61,12 +61,6 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🎯 Ahora mismo · Right now
-
-- 🔨 **Construyendo · Building:** una app de navegación para el campus y una demo de gamificación con avatares 3D.
-- 📚 **Aprendiendo · Learning:** JavaScript puro (DOM, eventos y `localStorage`) haciendo mini juegos para mi portafolio · _vanilla JavaScript (DOM, events and `localStorage`) by building small games for my portfolio._
-- 👨‍🏫 **Enseñando · Teaching:** fundamentos de desarrollo web (HTML, CSS, JavaScript).
-
 ## 💬 Pregúntame sobre · Ask me about
 
 `Desarrollo web` · `Laravel` · `Bases de datos MySQL` · `Administración de sistemas` · `Enseñanza de programación`
